@@ -1,7 +1,7 @@
 <template>
     <div>
         <div class="flex justify-center mt-24">
-            <h1 class="text-2xl font-bold text-gray-500">Word Definition API</h1>
+            <h1 class="text-2xl font-bold text-gray-500">Simple Dictionary</h1>
         </div>
         <div class=" p-2 md:w-1/2 mx-auto">
             <div class="flex flex-row">

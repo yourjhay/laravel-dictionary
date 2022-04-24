@@ -1,4 +1,8 @@
-# WORD DEFINITION
+# SIMPLE DICTIONARY
+
+<img src="https://raw.githubusercontent.com/yourjhay/laravel-dictionary/master/public/sample.PNG" width="400">
+
+#
 
 **Built with Laravel, VueJS and Tailwind CSS**
 

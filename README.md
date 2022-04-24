@@ -11,11 +11,11 @@
 
 -   clone the project using
 
-**HTTP** - `git clone https://github.com/yourjhay/word-definition.git`
+**HTTP** - `git clone https://github.com/yourjhay/laravel-dictionary.git`
 
 OR
 
-**SSH** - `git clone git@github.com:yourjhay/word-definition.git`
+**SSH** - `git clone git@github.com:yourjhay/laravel-dictionary.git`
 
 -   Navigate to project directory
 -   run `composer install `
